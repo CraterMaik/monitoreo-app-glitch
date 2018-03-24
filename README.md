@@ -1,11 +1,28 @@
-# Monitoreo de las aplicaciones en glitch usando uptimerobot.com
+# Monitoreo de las aplicaciones glitch en uptimerobot.com
 
 #### REGISTRO Y CONFIGURACION
 Ingrese a https://uptimerobot.com/index.php, registrarse e iniciar sección
-
+<br/>
 <p align="center">
     <img src="https://i.imgur.com/t8gcFO8.png" alt="img">
 </p>
+<br/>
+<p align="center">
+    <img src="https://i.imgur.com/gvEHngx.png" alt="img">
+</p>
+<br/>
+<p align="center">
+    <img src="https://i.imgur.com/nWTtgd0.png" alt="img">
+</p>
+<br/>
+<p align="center">
+    <img src="https://i.imgur.com/5EgPwJw.png" alt="img">
+</p>
+<br/>
+<p align="center">
+    <img src="https://i.imgur.com/WNurYQA.png" alt="img">
+</p>
+
 
 #### SERVIDOR SOPORTE DISCORD
 <p align="center">
