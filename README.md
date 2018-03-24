@@ -26,7 +26,7 @@ Ingrese a https://uptimerobot.com/index.php, registrarse e iniciar sección
 </p>
 <br/>
 
-#### SU APP ESTA MONITORIADO
+#### ESTADISTICAS Y OPCIONES DEL MONITOREO DE SU APP
 <p align="center">
     <img src="https://i.imgur.com/WNurYQA.png" alt="img">
 </p>
