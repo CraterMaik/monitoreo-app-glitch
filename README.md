@@ -7,21 +7,25 @@ Ingrese a https://uptimerobot.com/index.php, registrarse e iniciar sección
     <img src="https://i.imgur.com/t8gcFO8.png" alt="img">
 </p>
 <br/>
+
 #### CREAR UN MONITOREO PARA SU APP
 <p align="center">
     <img src="https://i.imgur.com/gvEHngx.png" alt="img">
 </p>
 <br/>
+
 #### INGRESAR LOS DATOS PARA EL MONITOREO
 <p align="center">
     <img src="https://i.imgur.com/nWTtgd0.png" alt="img">
 </p>
 <br/>
+
 #### VALIDANDO EL MONITOREO DE SU APP
 <p align="center">
     <img src="https://i.imgur.com/5EgPwJw.png" alt="img">
 </p>
 <br/>
+
 #### SU APP ESTA MONITORIADO
 <p align="center">
     <img src="https://i.imgur.com/WNurYQA.png" alt="img">
