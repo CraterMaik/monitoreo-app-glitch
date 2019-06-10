@@ -34,5 +34,5 @@ Ingrese a https://uptimerobot.com/index.php, registrarse e iniciar sección
 
 #### SERVIDOR SOPORTE DISCORD
 <p align="center">
-  <a href="https://discord.gg/VxwER6t"><img src="https://discordapp.com/api/guilds/312846399731662850/widget.png?style=banner2" alt="Discord server"></a>
+  <a href="https://discord.gg/g6ssSmK"><img src="https://discordapp.com/api/guilds/312846399731662850/widget.png?style=banner2" alt="Discord server"></a>
 </p>
